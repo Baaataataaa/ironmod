@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GTG",
+    "TDT",
+    "GTG"
+  ],
+  "key": {
+    "G": { "item": "minecraft:gold_ingot" },
+    "T": { "item": "minecraft:totem_of_undying" },
+    "D": { "item": "minecraft:diamond" }
+  },
+  "result": { "item": "ironmod:module_shield", "count": 1 }
+}

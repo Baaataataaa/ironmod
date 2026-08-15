@@ -1,0 +1,56 @@
+{
+  "itemGroup.ironmod": "Iron Suit",
+
+  "block.ironmod.assembly_bench": "Bancada de Montagem",
+
+  "item.ironmod.iron_suit_helmet": "Capacete da Armadura",
+  "item.ironmod.iron_suit_chestplate": "Peitoral da Armadura",
+  "item.ironmod.iron_suit_leggings": "Calças da Armadura",
+  "item.ironmod.iron_suit_boots": "Botas da Armadura",
+
+  "item.ironmod.module_propulsion": "Módulo de Propulsão",
+  "item.ironmod.module_repulsor": "Módulo Repulsor",
+  "item.ironmod.module_armor_plating": "Módulo de Blindagem Reforçada",
+  "item.ironmod.module_projectile_call": "Módulo de Chamada Automática",
+  "item.ironmod.module_shock_absorber": "Módulo Amortecedor",
+  "item.ironmod.module_night_vision": "Módulo de Visão Noturna",
+  "item.ironmod.module_nanotech": "Módulo de Nanotecnologia",
+  "item.ironmod.module_charged_beam": "Módulo de Feixe Carregado (Unibeam)",
+  "item.ironmod.module_fire_immunity": "Módulo de Imunidade a Fogo",
+  "item.ironmod.module_projectile_immunity": "Módulo de Defesa Antiprojétil",
+  "item.ironmod.module_water_breathing": "Módulo de Respiração Aquática",
+  "item.ironmod.module_metal_skin": "Módulo de Pele de Metal",
+  "item.ironmod.module_shield": "Módulo de Escudo de Energia",
+  "item.ironmod.module_sentinel_mode": "Módulo Modo Sentinela",
+
+  "item.ironmod.mark_call_device": "Dispositivo de Chamada da Armadura",
+  "item.ironmod.beam_emitter": "Emissor de Feixe",
+
+  "tooltip.ironmod.module.propulsion": "Instale nas botas para permitir voo.",
+  "tooltip.ironmod.module.repulsor": "Instale na peitoral. Shift + clique direito no ar dispara um repulsor.",
+  "tooltip.ironmod.module.armor_plating": "Aumenta a defesa da peça.",
+  "tooltip.ironmod.module.projectile_call": "Instale na peitoral para permitir chamar a armadura à distância.",
+  "tooltip.ironmod.module.shock_absorber": "Reduz o dano de queda.",
+  "tooltip.ironmod.module.night_vision": "Concede visão noturna enquanto equipado.",
+  "tooltip.ironmod.module.nanotech": "Nanoparticulas: escudo que absorve dano e auto-reparo lento da peça.",
+  "tooltip.ironmod.module.charged_beam": "Instale na peitoral. Use o Emissor de Feixe: segure pra carregar, solte pra disparar.",
+  "tooltip.ironmod.module.fire_immunity": "Instale na peitoral. Você nunca mais pega fogo.",
+  "tooltip.ironmod.module.projectile_immunity": "Instale na peitoral. Anula dano de flechas e projéteis.",
+  "tooltip.ironmod.module.water_breathing": "Instale no capacete. Respire debaixo d'água indefinidamente.",
+  "tooltip.ironmod.module.metal_skin": "Instale nas calças. Reduz knockback e imuniza contra veneno/wither.",
+  "tooltip.ironmod.module.shield": "Instale na peitoral. Escudo de energia que absorve dano e recarrega com o tempo.",
+  "tooltip.ironmod.module.sentinel_mode": "Instale na peitoral. Toque Shift duas vezes rápido pra ligar/desligar o Modo Sentinela (força e resistência).",
+
+  "tooltip.ironmod.no_modules": "Nenhum módulo instalado",
+  "tooltip.ironmod.installed_modules": "Módulos instalados:",
+
+  "message.ironmod.no_chestplate": "Você precisa da peitoral da armadura no inventário!",
+  "message.ironmod.no_call_module": "A peitoral precisa do Módulo de Chamada Automática!",
+  "message.ironmod.no_armor_found": "Nenhuma armadura encontrada pra convocar!",
+  "message.ironmod.suit_retracted": "Armadura guardada no dispositivo.",
+  "message.ironmod.no_beam_module": "A peitoral precisa do Módulo de Feixe Carregado!",
+  "message.ironmod.beam_recharging": "Emissor ainda recarregando...",
+
+  "tooltip.ironmod.suit_stored": "Armadura guardada dentro do dispositivo",
+  "tooltip.ironmod.suit_not_stored": "Nenhuma armadura guardada"
+}

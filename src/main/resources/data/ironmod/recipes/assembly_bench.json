@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "IDI",
+    "III"
+  ],
+  "key": {
+    "I": { "item": "minecraft:iron_block" },
+    "D": { "item": "minecraft:diamond" }
+  },
+  "result": {
+    "item": "ironmod:assembly_bench",
+    "count": 1
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AGA",
+    "GNG",
+    "AGA"
+  ],
+  "key": {
+    "A": { "item": "minecraft:amethyst_shard" },
+    "G": { "item": "minecraft:gold_ingot" },
+    "N": { "item": "minecraft:nether_star" }
+  },
+  "result": { "item": "ironmod:module_nanotech", "count": 1 }
+}

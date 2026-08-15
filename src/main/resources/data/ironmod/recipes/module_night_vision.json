@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " G ",
+    "GIG",
+    " R "
+  ],
+  "key": {
+    "G": { "item": "minecraft:glowstone_dust" },
+    "I": { "item": "minecraft:iron_ingot" },
+    "R": { "item": "minecraft:redstone" }
+  },
+  "result": { "item": "ironmod:module_night_vision", "count": 1 }
+}

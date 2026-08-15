@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " F ",
+    "FIF",
+    " R "
+  ],
+  "key": {
+    "F": { "item": "minecraft:feather" },
+    "I": { "item": "minecraft:iron_ingot" },
+    "R": { "item": "minecraft:redstone" }
+  },
+  "result": { "item": "ironmod:module_propulsion", "count": 1 }
+}

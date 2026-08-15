@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " P ",
+    "PIP",
+    " P "
+  ],
+  "key": {
+    "P": { "item": "minecraft:prismarine_crystals" },
+    "I": { "item": "minecraft:iron_ingot" }
+  },
+  "result": { "item": "ironmod:module_water_breathing", "count": 1 }
+}

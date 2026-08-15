@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " G ",
+    "ADA",
+    " G "
+  ],
+  "key": {
+    "G": { "item": "minecraft:glowstone_dust" },
+    "A": { "item": "minecraft:amethyst_shard" },
+    "D": { "item": "minecraft:diamond" }
+  },
+  "result": { "item": "ironmod:module_charged_beam", "count": 1 }
+}

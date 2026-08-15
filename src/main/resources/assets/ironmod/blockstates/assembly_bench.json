@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "ironmod:block/assembly_bench" }
+  }
+}

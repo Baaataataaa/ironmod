@@ -1,0 +1,56 @@
+{
+  "itemGroup.ironmod": "Iron Suit",
+
+  "block.ironmod.assembly_bench": "Assembly Bench",
+
+  "item.ironmod.iron_suit_helmet": "Suit Helmet",
+  "item.ironmod.iron_suit_chestplate": "Suit Chestplate",
+  "item.ironmod.iron_suit_leggings": "Suit Leggings",
+  "item.ironmod.iron_suit_boots": "Suit Boots",
+
+  "item.ironmod.module_propulsion": "Propulsion Module",
+  "item.ironmod.module_repulsor": "Repulsor Module",
+  "item.ironmod.module_armor_plating": "Armor Plating Module",
+  "item.ironmod.module_projectile_call": "Auto-Call Module",
+  "item.ironmod.module_shock_absorber": "Shock Absorber Module",
+  "item.ironmod.module_night_vision": "Night Vision Module",
+  "item.ironmod.module_nanotech": "Nanotechnology Module",
+  "item.ironmod.module_charged_beam": "Charged Beam Module (Unibeam)",
+  "item.ironmod.module_fire_immunity": "Fire Immunity Module",
+  "item.ironmod.module_projectile_immunity": "Projectile Defense Module",
+  "item.ironmod.module_water_breathing": "Water Breathing Module",
+  "item.ironmod.module_metal_skin": "Metal Skin Module",
+  "item.ironmod.module_shield": "Energy Shield Module",
+  "item.ironmod.module_sentinel_mode": "Sentinel Mode Module",
+
+  "item.ironmod.mark_call_device": "Armor Call Device",
+  "item.ironmod.beam_emitter": "Beam Emitter",
+
+  "tooltip.ironmod.module.propulsion": "Install on boots to enable flight.",
+  "tooltip.ironmod.module.repulsor": "Install on chestplate. Shift + right-click (air) fires a repulsor blast.",
+  "tooltip.ironmod.module.armor_plating": "Increases the piece's defense.",
+  "tooltip.ironmod.module.projectile_call": "Install on chestplate to allow calling the suit remotely.",
+  "tooltip.ironmod.module.shock_absorber": "Reduces fall damage.",
+  "tooltip.ironmod.module.night_vision": "Grants night vision while worn.",
+  "tooltip.ironmod.module.nanotech": "Nanoparticles: an energy shield that absorbs damage and slowly self-repairs the piece.",
+  "tooltip.ironmod.module.charged_beam": "Install on chestplate. Use the Beam Emitter: hold to charge, release to fire.",
+  "tooltip.ironmod.module.fire_immunity": "Install on chestplate. You never catch fire again.",
+  "tooltip.ironmod.module.projectile_immunity": "Install on chestplate. Negates damage from arrows and projectiles.",
+  "tooltip.ironmod.module.water_breathing": "Install on helmet. Breathe underwater indefinitely.",
+  "tooltip.ironmod.module.metal_skin": "Install on leggings. Reduces knockback and immunizes against poison/wither.",
+  "tooltip.ironmod.module.shield": "Install on chestplate. Energy shield that absorbs damage and recharges over time.",
+  "tooltip.ironmod.module.sentinel_mode": "Install on chestplate. Double-tap Shift quickly to toggle Sentinel Mode (strength and resistance).",
+
+  "tooltip.ironmod.no_modules": "No modules installed",
+  "tooltip.ironmod.installed_modules": "Installed modules:",
+
+  "message.ironmod.no_chestplate": "You need the suit chestplate in your inventory!",
+  "message.ironmod.no_call_module": "The chestplate needs the Auto-Call Module!",
+  "message.ironmod.no_armor_found": "No armor found to summon!",
+  "message.ironmod.suit_retracted": "Suit stored in the device.",
+  "message.ironmod.no_beam_module": "The chestplate needs the Charged Beam Module!",
+  "message.ironmod.beam_recharging": "Emitter still recharging...",
+
+  "tooltip.ironmod.suit_stored": "Suit stored inside the device",
+  "tooltip.ironmod.suit_not_stored": "No suit stored"
+}

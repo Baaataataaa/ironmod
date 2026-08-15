@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MIM",
+    "IBI",
+    "MIM"
+  ],
+  "key": {
+    "M": { "item": "minecraft:magma_cream" },
+    "I": { "item": "minecraft:iron_ingot" },
+    "B": { "item": "minecraft:blaze_powder" }
+  },
+  "result": { "item": "ironmod:module_fire_immunity", "count": 1 }
+}
